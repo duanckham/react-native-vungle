@@ -1,0 +1,25 @@
+{
+  "name": "react-native-vungle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Noevil",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noevil/react-native-vungle.git"
+  },
+  "bugs": {
+    "url": "https://github.com/noevil/react-native-vungle/issues"
+  },
+  "homepage": "https://github.com/noevil/react-native-vungle#readme"
+}
